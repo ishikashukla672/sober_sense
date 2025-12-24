@@ -64,7 +64,7 @@ Press `q` to quit the application.
 
 ## Author
 ISHIKA SHUKLA
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub:https://github.com/ishikashukla672
 
 ## Disclaimer
 This is an educational project. It should NOT be used as the sole method for determining intoxication.
