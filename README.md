@@ -69,23 +69,3 @@ ISHIKA SHUKLA
 ## Disclaimer
 This is an educational project. It should NOT be used as the sole method for determining intoxication.
 ```
-
-5. Press **Ctrl + S** to save
-
----
-
-### **STEP 5: Create .gitignore File**
-
-This tells Git which files to ignore (not upload).
-
-1. Click **"New File"** icon
-2. Type name: **`.gitignore`** (yes, start with a dot)
-3. Press **Enter**
-4. Paste this:
-```
-__pycache__/
-*.pyc
-venv/
-env/
-.DS_Store
-.vscode/
